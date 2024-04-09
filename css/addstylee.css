@@ -1,0 +1,26 @@
+
+.footer footer {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.footer-link{
+    text-decoration: none;
+    color: black;
+}
+
+
+.footer {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 4em;
+    width: 100%;
+    padding: 20px 30px;
+    font-weight: 300;
+    background: #7f8386;
+
+   
+
+}
+
